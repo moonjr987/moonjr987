@@ -1,4 +1,4 @@
-<h1>Python, Java를 주로 활용하는 주니어 개발자 문주영입니다.</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=JooYeong_Github!&fontSize=90" />
 <h2>Stack</h2>
 <p align="left">
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
