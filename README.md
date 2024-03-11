@@ -1,4 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=FFD159&height=200&section=header&text=JooYeong_Github!&fontSize=70" />
+<br/>
+
 <h2 align="center">📖Tech Stack📖</h2>
 <h3 align="center">🎇 Platforms & Languages 🎇</h3>
 <p align="center">
@@ -15,7 +17,7 @@
   <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-DD3A0A.svg?&style=for-the-badge&logo=JAVA&logoColor=white"/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/>
 </p>
-
+<br/>
 <h3 align="center">🛠 Tools 🛠</h3>
 
 <p align="center">
